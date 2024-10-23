@@ -69,7 +69,7 @@ float r, g;
     if(mouseY>myY){
       //myY = myY2;//(int)(Math.random() * 900) + 120;
       myY2 = myY + (int)(Math.random() * 41) + 5;
-      System.out.println("down");
+      //System.out.println("down");
     } else {
       //myY = myY2;//(int)(Math.random() * 900) - 120;
       myY2 = myY - (int)(Math.random() * 41) + 5;
